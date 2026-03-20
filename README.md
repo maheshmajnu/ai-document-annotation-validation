@@ -1,5 +1,4 @@
 # ai-document-annotation-validation
-# AI Document Annotation & Validation (Advanced)
 
 ## Overview
 This project simulates real-world document annotation workflows used in AI-powered document processing systems.
